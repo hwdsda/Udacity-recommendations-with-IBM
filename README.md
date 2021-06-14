@@ -1,2 +1,2 @@
-# Rrecommendations with IBM
+# Recommendations with IBM
 
